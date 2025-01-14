@@ -1,0 +1,90 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+		<title>Kraków strona internetowa</title>
+	</head>
+	<body bgcolor="34eba6 ">
+		<header>
+
+		<h1>Moje miosto Kraków</h1>
+		</header>
+		<main>
+		<h2>Moje miosto Kraków</h2>
+		<h3>Moje miosto Kraków</h3>
+		<h4>Moje miosto Kraków</h4>
+		<h5>Moje miosto Kraków</h5>
+		<h6>Moje miosto Kraków</h6>
+	</body>
+			<p>
+				<b>Kraków</b>,<i>Stołeczne Misto Kraków</i> – miasto na prawach powiatu położone
+				w południowej Polsce nad Wisłą, drugie co do liczby mieszkańców.
+				Formalna stolica Polski do <u>1795</u> roku i miasto koronacyjne oraz nekropolia królów Polski. 
+				Od <u>1000</u> roku nieprzerwanie stolica diecezji krakowskiej (jednej z pięciu w ówczesnej Polsce), 
+				a od <u>1925</u> archidiecezji i metropolii.
+				</p>
+				<hr>	
+				<h2>Kraków Sigma</h2>
+				<p>Hej! puszczę ja oczy daleko od siebie!<br>
+				Niech lecą, polecą, jak ptaki po niebie,<br>
+				Aż do tej krainy,<br>
+				Gdzie pada zmierzch siny<br>
+				Od Karpat - ku starej kolebie! - <br>
+				<br>
+				Tam Kraków siadł cichy, w głębokiej zadumie,<br>
+				Kto spojrzy - zapłacze - i smutek zrozumie...<br>
+				Jak duch nad mogiłą,<br>
+				Rozmyśla, co było -<br>
+				I tęskno mu w obcym dziś tłumie...<br>
+				<br>
+				Ku niebu strzeliście, w poranne błękity,<br>
+				Podaje swych wieżyc krużganki i szczyty...<br>
+				I gra z nich hejnały<br>
+				Na rozświt, na biały,<br>
+				Co wstaje rosami nakryty...<br>
+				<br>
+				A góra tam stoi, co Wawel się zowie,<br>
+				I dźwiga pamiątki po starym Krakowie,<br>
+				Tam w grobach podziemnych,<br>
+				Wśród lochów tych ciemnych<br>
+				Śpią króle w koronach na głowie...<br>
+
+				</p>
+			<img src="krakow.jpg" alt="obraz Krakowa - kolaż" width= 800px>
+			<ol>
+			<li>mapa</li>
+			<li>ciekawe miejsca</li>
+			<li>zabytki</li>
+			<li>sport</li>
+			</ol>
+			<table border=1>
+			
+			<tr> 
+			<td>komórka 2</td>
+			<td>komórka 2</td>
+			<td>komórka 2</td>
+			</tr>
+			<tr> 
+			<td>komórka 2</td>
+			<td>komórka 2</td>
+			<td>komórka 2</td>
+			</tr>
+			<tr> 
+			<td>komórka 2</td>
+			<td>komórka 2</td>
+			<td>komórka 2</td>
+			</tr>
+			</table>
+		</main>
+		<footer>
+		Copyright&#169 3c2 Mikołaj Trybalsky
+		</footer>
+</body>
+
+
+
+
+</html>
+
+
+
+ 
